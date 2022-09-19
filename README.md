@@ -29,11 +29,11 @@
 <h3 align="left">My GitHub Stats:</h3>
 <p align="left">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurisamanta&show_icons=true&locale=en&layout=compact" alt="mayurisamanta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riturajnagar&show_icons=true&locale=en&layout=compact" alt="riturajnagar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurisamanta&show_icons=true&locale=en" alt="mayurisamanta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajnagar&show_icons=true&locale=en" alt="riturajnagar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurisamanta&" alt="mayurisamanta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riturajnagar&" alt="riturajnagar" /></p>
 
 <img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
 
