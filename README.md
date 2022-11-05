@@ -8,7 +8,7 @@
 
 <img style="height: 200px;" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="">
 
-
+<p>I have tremendous interest towards tech, I have completed MCA in Computer Application and currently I am persuing Full Stack Web Development Course at Masai School I love to develope the Softwares that impacts the Society. With 1200+ hours of coding and 100+ hours soft skills training looking forward to utilizing my skills in a challenging work environment.</p>
 
 - 🌱 I’m currently learning **Java**
 
