@@ -3,7 +3,6 @@ Hi 👋 My name is Rituraj Nagar
 
 I am a Java Backend Developer
 ---------------------------
-As Aspiring Java Backend Developer wish to be a part of your organization with 1000+ hours of coding experience that enhances my curiosity, broadens my focus, and skills, and gives me immense experience.
 
 *   🌍  I'm based in Bhopal, Madhya Pradesh, India.
 *   🖥️  See my portfolio at [MyPortfolio](https://mohitagrawal22.github.io/](https://riturajnagar.github.io/))
