@@ -5,7 +5,7 @@ I am a Java Backend Developer
 ---------------------------
 
 *   🌍  I'm based in Bhopal, Madhya Pradesh, India.
-*   🖥️  See my portfolio at [MyPortfolio](https://mohitagrawal22.github.io/](https://riturajnagar.github.io/))
+*   🖥️  See my portfolio at [MyPortfolio](https://riturajnagar.github.io/)
 *   ✉️  You can contact me at [riturajnagar78@gmail.com](mailto:riturajnagar78@gmail.com)
 *   ⚡  Apart from coding, I like Cooking, Driving.
 
