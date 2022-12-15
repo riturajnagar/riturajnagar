@@ -51,8 +51,8 @@ I am a Java Backend Developer
   
 
      
-     📈 Activity Graph
+<!--      📈 Activity Graph
     
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rituraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=riturajnagar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
-               
+                -->
