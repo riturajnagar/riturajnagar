@@ -25,11 +25,13 @@ I am a Java Backend Developer
   <img src="https://user-images.githubusercontent.com/58034490/141353058-36c5ef97-420a-4bcf-b871-7ef1cc262e26.png" width="100" height="100" alt="Java" />
   <img src="https://miro.medium.com/max/1400/0*Rplsn6TJYurdICZB.jpg" width="100" height="100" alt="Java" />
   <img src="https://user-images.githubusercontent.com/58034490/141354818-8c186650-e4fa-4463-9690-e8f91893dfa2.gif" width="100" height="100" alt="Java" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="100" height="100" alt="react">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="100" height="100" alt="bootstrap">
   <img src="https://user-images.githubusercontent.com/58034490/141353054-2350801b-ca74-40c5-87b8-c8e3cb909928.png" width="100" height="100" alt="Java" />  
   <img src="https://user-images.githubusercontent.com/58034490/141353050-4624e02a-84d4-4a97-a533-fd8bae9fd418.png" width="100" height="100" alt="Java" />
   <img src="https://user-images.githubusercontent.com/58034490/141354514-b1d119b6-c960-4eb1-8178-12efd9a1fc83.gif" width="100" height="100" alt="Java" />
   <img src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3.jpg" width="100" height="100" alt="Java" />
-  
+    
    <!--This img tag works  <img src="" width="900" height="600" alt="Java" />  -->
           
       📫 How to reach me:  
