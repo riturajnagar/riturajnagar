@@ -16,6 +16,8 @@ I am a Java Backend Developer
 <img src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" width="900" height="600" alt="Java" />
 
 
+
+
 💻 Skills 
     
 
@@ -47,6 +49,10 @@ I am a Java Backend Developer
         
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajnagar&show_icons=true&locale=en&theme=gruvbox" alt="riturajnagar" /></p>
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riturajnagar&theme=gruvbox" alt="riturajnagar" /></p>
+       
+       
+       
+ <img alt="codding" width="100%" height="350"  src="https://user-images.githubusercontent.com/103949801/204467455-5bfa7257-0da5-49fb-a826-2308b738faa6.gif"/>
 
                
              
