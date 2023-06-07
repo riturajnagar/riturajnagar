@@ -1,66 +1,66 @@
-Hi 👋 My name is Rituraj Nagar
-==============================
+<h1 align="center">Hey, Welcome to my world "Rituraj Nagar"</h1>
+    <h3 align="center">Java Backend Developer</h3>
 
-I am a Java Backend Developer
----------------------------
+![](https://komarev.com/ghpvc/?username=riturajnagar&style=flat-square)
 
-*   🌍  I'm based in Bhopal, Madhya Pradesh, India.
-*   🖥️  See my portfolio at [MyPortfolio](https://riturajnagar.github.io/)
-*   ✉️  You can contact me at [riturajnagar78@gmail.com](mailto:riturajnagar78@gmail.com)
-*   ⚡  Apart from coding, I like Cooking, Driving.
+<img align="right" style="height: 200px;" src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" alt="coding boy gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riturajnagar&label=Profile%20views&color=0e75b6&style=flat" alt="riturajnagar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riturajnagar" alt="riturajnagar" /></a> </p>
-
-<img src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" width="900" height="600" alt="Java" />
-
-
-
-
-💻 Skills 
-    
-
-   <p align="left">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="100" height="100" alt="Java" />
-  <img src="https://user-images.githubusercontent.com/58034490/141354056-7bf12bcc-6ebc-4104-bd4e-d5e24db293f5.gif" width="100" height="100" alt="Java" />
-  <img src="https://user-images.githubusercontent.com/58034490/141353058-36c5ef97-420a-4bcf-b871-7ef1cc262e26.png" width="100" height="100" alt="Java" />
-  <img src="https://miro.medium.com/max/1400/0*Rplsn6TJYurdICZB.jpg" width="100" height="100" alt="Java" />
-  <img src="https://user-images.githubusercontent.com/58034490/141354818-8c186650-e4fa-4463-9690-e8f91893dfa2.gif" width="100" height="100" alt="Java" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="100" height="100" alt="react">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="100" height="100" alt="bootstrap">
-  <img src="https://user-images.githubusercontent.com/58034490/141353054-2350801b-ca74-40c5-87b8-c8e3cb909928.png" width="100" height="100" alt="Java" />  
-  <img src="https://user-images.githubusercontent.com/58034490/141353050-4624e02a-84d4-4a97-a533-fd8bae9fd418.png" width="100" height="100" alt="Java" />
-  <img src="https://user-images.githubusercontent.com/58034490/141354514-b1d119b6-c960-4eb1-8178-12efd9a1fc83.gif" width="100" height="100" alt="Java" />
-  <img src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3.jpg" width="100" height="100" alt="Java" />
-    
-   <!--This img tag works  <img src="" width="900" height="600" alt="Java" />  -->
-          
-      📫 How to reach me:  
-   <a href="https://www.linkedin.com/in/riturajnagar" target="_blank" rel="noreferrer"><img src="https://180dc.org/wp-content/uploads/2020/01/Linkedin-logo-1-550x550-300x300.png" width="100" height="100" alt="LinkedIn" />
-     
+- 🔭 I’m currently a student at Masai **School, Bengaluru**
        
+- 🌱 I’m busy on building **Rest API's with Spring Boot**
 
-     📊 Github stats
-   
-   <!--  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula    -->
+- 🌱 I’m currently learning **Next-js**
 
-<p align="center"><img align="center" style="margin-left:300px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=riturajnagar&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="riturajnagar" /></p>               
-        
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajnagar&show_icons=true&locale=en&theme=gruvbox" alt="riturajnagar" /></p>
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riturajnagar&theme=gruvbox" alt="riturajnagar" /></p>
-       
-       
-       
- <img alt="codding" width="100%" height="350"  src="https://user-images.githubusercontent.com/103949801/204467455-5bfa7257-0da5-49fb-a826-2308b738faa6.gif"/>
+- 👯 I’m looking to collaborate on **Interesting projects using Spring boot**
 
-               
-             
-  
+ <!-- Portfolio -->
+- 👨‍💻 Checkout my [Portfolio](https://riturajnagar.github.io/) &nbsp; 
 
-     
-<!--      📈 Activity Graph
-    
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rituraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=riturajnagar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<!-- Resume -->
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1cK7Pb4IOjdywPGONNSy2ChXIWW3KWX1w/view?usp=drive_link) &nbsp; 
 
-                -->
+- 💬 Ask me about **Coding and Art because that's what fascinates me**
+
+- 📫 How to reach me **riturajnagar78@gmail.com**
+
+- ⚡ Fun fact **I think I am creative**
+
+- 👯 **Love to connect with people and Know their stories**
+<br>
+
+
+<p align="left">
+  <a  align="left" href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=riturajnagar&column=7&theme=default" />
+  </a>
+</p>
+
+<br>
+
+# 🌐 Socials:
+<p align="left">
+<a href="https://www.linkedin.com/in/riturajnagar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rituraj-nagar" height="50" width="60"  style="margin-right: 10px;"/></a>
+<a href="https://leetcode.com/riturajnagar78/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rituraj-nagar" height="50" width="60" style="margin-right: 10px;"/></a>
+
+# 💻 Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,hibernate,react,nextjs,js,html,css,bootstrap,eclipse,git,github,postman,netlify,vscode)](https://skillicons.dev)
+
+# 📊 GitHub Stats:
+<p align="left">
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riturajnagar&show_icons=true&theme=default&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=riturajnagar&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajnagar&layout=compact&count_private=true" align="center" />
+</p>
+
+
+# ✍️ Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/riturajnagar/github-readme-quotes)
+
+
+<img style="width: 100%;" src="https://user-images.githubusercontent.com/103949801/204467455-5bfa7257-0da5-49fb-a826-2308b738faa6.gif" alt="">
+
+<h3 align="center">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
