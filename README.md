@@ -25,9 +25,6 @@
 
 - 📫 How to reach me **riturajnagar78@gmail.com**
 
-- ⚡ Fun fact **I think I am creative**
-
-- 👯 **Love to connect with people and Know their stories**
 <br>
 
 
@@ -57,12 +54,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajnagar&layout=compact&count_private=true" align="center" />
 </p>
 
-
-# ✍️ Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/riturajnagar/github-readme-quotes)
+# ✍️
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_)](https://github.com/riturajnagar/github-readme-quotes)
 
 
 <img style="width: 100%;" src="https://user-images.githubusercontent.com/103949801/204467455-5bfa7257-0da5-49fb-a826-2308b738faa6.gif" alt="">
 
-<h3 align="center">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
+<h3 align="center">Thank You for Visiting <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
