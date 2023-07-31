@@ -5,22 +5,22 @@
 
 <img align="right" style="height: 200px;" src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" alt="coding boy gif">
 
-- 👨‍💻 I'm **working** with **White Feather Consultancy Pvt. Ltd**.
+- 👨‍💻 **Working** with **White Feather Consultancy Pvt. Ltd**.
 
-- 🔭 I was a student at Masai **School, Bengaluru**
+- 🔭 Ex-student at Masai **School, Bengaluru**.
        
-- 🌱 I’m busy on building **Rest API's with Spring Boot**
+- 🌱 Busy on building **Rest APIs with Spring Boot, Spring Data JPA, MySQL**.
 
-- 🌱 I’m currently learning **Next-js**
+- 🌱 Exploring **Front-End Technologies** (Reactjs,Next-js).
 
 <!-- 👯 I’m looking to collaborate on **Interesting projects using Spring boot** -->
 
  <!-- Portfolio -->
 - 👨‍💻 Checkout [Portfolio](https://riturajnagar.github.io/), [Resume](https://drive.google.com/file/d/1cK7Pb4IOjdywPGONNSy2ChXIWW3KWX1w/view?usp=drive_link) &nbsp; 
 
-- 💬 Ask me about **Coding and Art because that's what fascinates me**
+<!-- 💬 Ask me about **Coding and Art because that's what fascinates me**-->
 
-- 📫 How to reach me **riturajnagar78@gmail.com**
+- 📫 For Colloboration **riturajnagar78@gmail.com**.
 
 <br>
 
