@@ -13,13 +13,10 @@
 
 - 🌱 I’m currently learning **Next-js**
 
-- 👯 I’m looking to collaborate on **Interesting projects using Spring boot**
+<!-- 👯 I’m looking to collaborate on **Interesting projects using Spring boot** -->
 
  <!-- Portfolio -->
-- 👨‍💻 Checkout my [Portfolio](https://riturajnagar.github.io/) &nbsp; 
-
-<!-- Resume -->
--  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1cK7Pb4IOjdywPGONNSy2ChXIWW3KWX1w/view?usp=drive_link) &nbsp; 
+- 👨‍💻 Checkout [Portfolio](https://riturajnagar.github.io/), [Resume](https://drive.google.com/file/d/1cK7Pb4IOjdywPGONNSy2ChXIWW3KWX1w/view?usp=drive_link) &nbsp; 
 
 - 💬 Ask me about **Coding and Art because that's what fascinates me**
 
