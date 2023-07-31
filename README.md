@@ -5,7 +5,9 @@
 
 <img align="right" style="height: 200px;" src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" alt="coding boy gif">
 
-- 🔭 I’m currently a student at Masai **School, Bengaluru**
+- 👨‍💻 I'm **working** with **White Feather Consultancy Pvt. Ltd**.
+
+- 🔭 I was a student at Masai **School, Bengaluru**
        
 - 🌱 I’m busy on building **Rest API's with Spring Boot**
 
