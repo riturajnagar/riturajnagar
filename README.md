@@ -46,7 +46,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,hibernate,react,nextjs,js,html,css,bootstrap,eclipse,git,github,postman,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,hibernate,react,nextjs,js,html,css,bootstrap,eclipse,git,github,bitbucket,jira,postman,netlify,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 <p align="left">
