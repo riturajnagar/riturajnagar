@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Welcome to my world "Rituraj Nagar"</h1>
+<h1 align="center">Hey, Welcome to my world</h1>
     <h3 align="center">Java Backend Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=riturajnagar&style=flat-square)
