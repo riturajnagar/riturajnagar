@@ -1,5 +1,5 @@
 <h1 align="center">Hey, Welcome to my world</h1>
-<h3 align="center">Java Backend Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <table width="100%">
   <tr>
