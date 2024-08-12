@@ -16,7 +16,7 @@
 <!-- 👯 I’m looking to collaborate on **Interesting projects using Spring boot** -->
 
  <!-- Portfolio -->
-- 👨‍💻 Checkout [Portfolio](https://riturajnagar.github.io/), [Resume](https://drive.google.com/file/d/1cK7Pb4IOjdywPGONNSy2ChXIWW3KWX1w/view?usp=drive_link) &nbsp; 
+- 👨‍💻 Checkout [Portfolio](https://riturajnagar.github.io/), [Resume](https://drive.google.com/file/d/1FlIfvNmkSLfbsJNQsqS87YiGLS_c4m1X/view?usp=sharing) &nbsp; 
 
 <!-- 💬 Ask me about **Coding and Art because that's what fascinates me**-->
 
@@ -40,7 +40,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,hibernate,react,nextjs,js,html,css,bootstrap,eclipse,git,github,postman,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,react,aws,nextjs,maven,hibernate,js,html,css,bootstrap,eclipse,git,github,postman,netlify,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 <p align="left">
