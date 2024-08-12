@@ -63,7 +63,9 @@
 
 # ✍️ Quotes:
 <div align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_)](https://github.com/riturajnagar/github-readme-quotes)
+  <a href="https://github.com/riturajnagar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_" alt="Readme Quotes" />
+  </a>
 </div>
 
 <p align="center">
