@@ -18,7 +18,9 @@
   </tr>
 </table>
 
-
+<p> 
+  A skilled software developer with strong expertise in designing REST APIs using Spring Boot and Java frameworks. Hands-on in AWS services includes AWS API Gateway and AWS Lambda. Specialized in Java/J2EE technologies including Microservices, Spring Security, and Hibernate. Experienced in developing object-oriented software applications, and well-versed in architectures like Microservices, and MVC. Proficient databases such as GraphQL, Apollo Federation, DynamoDB MySQL. Known for excellent analytical and problem-solving abilities, effective communication, and a strong team player.
+ </p>
 
 <img align="right" style="height: 200px;" src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" alt="coding boy gif">
 
