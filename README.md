@@ -1,7 +1,24 @@
 <h1 align="center">Hey, Welcome to my world</h1>
 <h3 align="center">Java Backend Developer</h3>
 
-![](https://komarev.com/ghpvc/?username=riturajnagar&style=flat-square)
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=riturajnagar&style=flat-square" alt="Profile Views" />
+    </td>
+    <td align="right">
+      <a href="https://riturajnagar.github.io/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Portfolio-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://drive.google.com/file/d/1FlIfvNmkSLfbsJNQsqS87YiGLS_c4m1X/view?usp=sharing" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Resume-007ACC?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 <img align="right" style="height: 200px;" src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" alt="coding boy gif">
 
@@ -9,7 +26,8 @@
 - 🔭 Ex-student at Masai **School, Bengaluru**.
 - 🌱 Busy building **Rest APIs with Spring Boot, Spring Data JPA, MySQL**.
 - 🌱 Exploring **Front-End Technologies** (React.js, Next.js).
-- 👨‍💻 Check out my [Portfolio](https://riturajnagar.github.io/) and [Resume](https://drive.google.com/file/d/1FlIfvNmkSLfbsJNQsqS87YiGLS_c4m1X/view?usp=sharing).
+- 👨‍💻 Check out my <a href="https://riturajnagar.github.io/" style="font-weight: bold; color: #FF4500;">Portfolio</a> and <a href="https://drive.google.com/file/d/1FlIfvNmkSLfbsJNQsqS87YiGLS_c4m1X/view?usp=sharing" style="font-weight: bold; color: #FF4500;">Resume</a>.
+
 - 📫 For collaboration, reach me at **riturajnagar78@gmail.com**.
 
 <br>
