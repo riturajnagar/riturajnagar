@@ -25,7 +25,7 @@
 <img align="right" style="height: 200px;" src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" alt="coding boy gif">
 
 - 👨‍💻 **Working** with **White Feather Consultancy Pvt. Ltd**.
-- 🔭 Ex-student at Masai **School, Bengaluru**.
+- 🔭 Ex-student at  **Masai School, Bengaluru**.
 - 🌱 Busy building **Rest APIs with Spring Boot, Spring Data JPA, MySQL**.
 - 🌱 Exploring **Front-End Technologies** (React.js, Next.js).
 - 👨‍💻 Check out my <a href="https://riturajnagar.github.io/" style="font-weight: bold; color: #FF4500;">Portfolio</a> and <a href="https://drive.google.com/file/d/1FlIfvNmkSLfbsJNQsqS87YiGLS_c4m1X/view?usp=sharing" style="font-weight: bold; color: #FF4500;">Resume</a>.
