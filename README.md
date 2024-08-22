@@ -1,5 +1,5 @@
 <h1 align="center">Hey, Welcome to my world</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Java Backend Developer</h3>
 
 <table width="100%">
   <tr>
@@ -19,7 +19,7 @@
 </table>
 
 <p> 
-  A skilled software developer with strong expertise in designing REST APIs using Spring Boot and Java frameworks. Hands-on in AWS services includes AWS API Gateway and AWS Lambda. Specialized in Java/J2EE technologies including Microservices, Spring Security, and Hibernate. Experienced in developing object-oriented software applications, and well-versed in architectures like Microservices, and MVC. Proficient databases such as GraphQL, Apollo Federation, DynamoDB MySQL. Known for excellent analytical and problem-solving abilities, effective communication, and a strong team player.
+A skilled software developer with strong expertise in designing REST APIs using Spring Boot and Java frameworks. Hands-on experience in AWS services, including AWS API Gateway and AWS Lambda. Specialized in Java/J2EE technologies, including Microservices, Spring Security, and Hibernate. Experienced in developing object-oriented software applications and well-versed in architectures like Microservices and MVC. Proficient in databases such as GraphQL, Apollo Federation, DynamoDB, and MySQL. Known for excellent analytical and problem-solving abilities, effective communication, and being a strong team player.
  </p>
 
 <img align="right" style="height: 200px;" src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" alt="coding boy gif">
